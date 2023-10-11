@@ -1,3 +1,6 @@
+![image](https://github.com/Mistire/GTSTv1/assets/96515111/5e354b0e-0215-4d6e-8d5b-b599d6cbb6ca)
+
+
 ## Introduction to Ethical hacking
 #### What is Hacking?
 - Hacking: exploiting the system vulnerabilities and compromising security controls to gain unauthorized access to the system
