@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+![image](https://github.com/Mistire/GTSTv1/assets/96515111/38e73afa-d9e3-42ad-b81c-746ad3dccacf)
 ## Introduction to Linux
 #### What is Linux?
 - Linux is **kernel**.
@@ -17,16 +17,7 @@
 - FISH
 - ZSH
 #### What is OS- Operating system?
-=======
-![image](https://github.com/Mistire/GTSTv1/assets/96515111/38e73afa-d9e3-42ad-b81c-746ad3dccacf)
 
-### Linux
-Linux is kernel
-What is kerenel?
-- Kernel is program used to meet your software and hardware
-History of Linux
-what is shell?
->>>>>>> 48a3112ee717828c4735b2787cb18ba1f9452cd9
 
 Why Linux?
 Linux Distribution
