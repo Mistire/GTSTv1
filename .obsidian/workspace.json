@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0059d51223d7cd25",
@@ -149,9 +148,9 @@
   },
   "active": "f50e810861413a73",
   "lastOpenFiles": [
-    "Day1.md",
-    "Day 2.md",
     "README.md",
+    "Day 2.md",
+    "Day1.md",
     "Untitled.md"
   ]
 }
