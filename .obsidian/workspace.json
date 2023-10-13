@@ -11,8 +11,12 @@
             "id": "e48ba0eaa9c3d757",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Day 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 11.md"
+                "file": "Day 3.md"
               }
             }
           }
@@ -140,23 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3696a6fbac8de926",
+  "active": "e48ba0eaa9c3d757",
   "lastOpenFiles": [
+    "Day 4.md",
+    "Day 5.md",
+    "Day 2.md",
+    "Day 3.md",
+    "Day 1.md",
+    "README.md",
+    "Day 11.md",
     "Day 10.md",
     "Day 7.md",
     "Day 15.md",
     "Day 14.md",
     "Day 13.md",
     "Day 12.md",
-    "Day 11.md",
     "Day 9.md",
     "Day 8.md",
-    "Day 6.md",
-    "Day 5.md",
-    "Day 4.md",
-    "Day 3.md",
-    "Day 2.md",
-    "README.md",
-    "Day 1.md"
+    "Day 6.md"
   ]
 }
