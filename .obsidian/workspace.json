@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Day 11.md"
+              }
             }
           }
         ]
@@ -138,17 +140,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e48ba0eaa9c3d757",
+  "active": "3696a6fbac8de926",
   "lastOpenFiles": [
+    "Day 10.md",
+    "Day 7.md",
     "Day 15.md",
     "Day 14.md",
     "Day 13.md",
     "Day 12.md",
     "Day 11.md",
-    "Day 10.md",
     "Day 9.md",
     "Day 8.md",
-    "Day 7.md",
     "Day 6.md",
     "Day 5.md",
     "Day 4.md",
