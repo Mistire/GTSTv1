@@ -9,7 +9,7 @@
 - At the time, Torvalds was a computer science student at the University of Helsinki, Finland and began working on the Linux project as a personal endeavor.
 - Richard Stallman announced the GNU project in 1983 and cofounded the Free Software Foundation in 1985. So GNU + LINUX will give the GNU/Linux OS.
 ##### What is Shell?
-- It is a command line interpreter that helps users communicate with **Kernel**.
+- It is a command line interpreter that helps users communicate with **Kernel**.[[Day 3]]
 ##### Types of Shells
 > They differ in their features
 - SH
