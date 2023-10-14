@@ -33,5 +33,22 @@
 	-  *rm -i* => for prompt(ask)
 	-  *rm -f* => force delete
 - **cp/mv:** copy/move files and folders
-- **grep:** 
+- **grep:**  a filter that is used to search for lines matching a specified pattern and print the matching lines to standard output
+	- *grep -i* "search" file =>  case insensitive
+	- *grep -c* "search" file => counts numbers
+	- *grep -l* "search" => displays file name 
+	- *grep -R* "search" foldername => searches text in folders
+	- *grep -v* "term" filename => displays without this term
+	- *grep -n* "term" file => displays number of terms
+- **wc:** used to find the number of lines word count, byte, and characters count in the specified file arguments
+	- *wc -l*
+	- *wc -w*
+	- *wc -c*
+#### Multiple Command Execution
+- Multiple commands can be executed in 1 line
+- Using 3 methods:
+	- And (&&)
+	- Or (||)
+	- Piping (|) =>runs command by using the output of the 1st command as an input for the next one
+
 
