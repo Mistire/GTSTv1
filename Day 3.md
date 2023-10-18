@@ -44,6 +44,11 @@
 	- *wc -l*
 	- *wc -w*
 	- *wc -c*
+- **sed:** performs text editing on a stream of text, either a set if specified files or standard input
+	- *sed 's/FIND/REPLACE/' filename* 
+	- *sed 's/FIND/REPLACE/g' filename*
+	- *sed -n '/pattern/p' filename*
+	- *sed -n '/pattern/!p' filename*
 #### Multiple Command Execution
 - Multiple commands can be executed in 1 line
 - Using 3 methods:
