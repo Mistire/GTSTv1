@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+https://history-computer.com/wp-content/uploads/2022/08/shutterstock_634316555-scaled.jpg
 ## Further on Linux
 #### Linux File Hierarchy
 - Linux have a special file system which is a directory structure that the OS use.
