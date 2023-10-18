@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 ## Further on Linux
 #### Linux File Hierarchy
 - Linux have a special file system which is a directory structure that the OS use.
