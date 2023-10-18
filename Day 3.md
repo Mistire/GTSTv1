@@ -50,5 +50,6 @@
 	- And (&&)
 	- Or (||)
 	- Piping (|) =>runs command by using the output of the 1st command as an input for the next one
+ ---
 
 
