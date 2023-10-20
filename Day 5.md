@@ -1,3 +1,5 @@
+![image](https://github.com/Mistire/GTSTv1/assets/96515111/236d583d-8147-41f7-822c-34d9c631f0d2)
+
 ## Advanced Linux User
 #### Some advanced user commands
 - To change password of a user
@@ -14,6 +16,10 @@
 - This is because it is not added in the sudoers file
 - To access this file
 	- sudo visudo
+
+
+![image](https://github.com/Mistire/GTSTv1/assets/96515111/810caa6a-528b-48da-b11e-41b2509e888a)
+
 #### Linux File Permission
 - Every file on Linux have their own
 	- Owner
@@ -45,6 +51,10 @@
 - It can be expressed in two ways:
 	- Parameters in Symbol
 	- Parameters in Numbers
+
+
+![image](https://github.com/Mistire/GTSTv1/assets/96515111/33df68e1-4643-40d8-8d06-160ac6a61935)
+
 #### Special File Permission
 - There are another 3 special permissions, you may encounter on your pentest
 Journey.
