@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 5.md",
+                "file": "Day 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 5.md",
+                "file": "Day 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 5.md",
+                "file": "Day 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 5.md"
+                "file": "Day 6.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "38e9ab7433257356",
   "lastOpenFiles": [
+    "Pasted image 20231021122252.png",
+    "Pasted image 20231021122111.png",
+    "Pasted image 20231021121955.png",
+    "Pasted image 20231021121928.png",
+    "Day 5.md",
     "Pasted image 20231020192218.png",
     "Day 4.md",
     "Day 3.md",
@@ -157,7 +162,6 @@
     "Day 8.md",
     "Day 7.md",
     "Day 6.md",
-    "Day 5.md",
     "Day 1.md",
     "Day 2.md",
     "README.md",
