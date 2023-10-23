@@ -7,7 +7,7 @@
 ## Day 3 - [Linux for users](https://github.com/Mistire/GTSTv1/blob/main/Day%203.md)
 ## Day 4 - [Further on Linux](https://github.com/Mistire/GTSTv1/blob/main/Day%204.md)
 ## Day 5 - [Advanced Linux Commands](https://github.com/Mistire/GTSTv1/blob/main/Day%205.md)
-## Day 6 -
+## Day 6 - [Finishing Linux](https://github.com/Mistire/GTSTv1/blob/main/Day%206.md)
 ## Day 7 -
 ## Day 8 -
 ## Day 9 -
