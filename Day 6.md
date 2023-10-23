@@ -110,3 +110,4 @@
 	- *find / -name "linux"*
 	- *find /home -perm 777*
 	- *find -type f | find -type d*
+---
