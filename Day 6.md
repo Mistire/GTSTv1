@@ -38,12 +38,12 @@
 - **Process**: number of instances of running program
 - To get the process => *ps option
 - More commands
-	- *ps -> for process running on my shell
-	- *ps -A -> view all running process
-	- *ps -u username -> view user processes
+	- *ps -> for process running on my shell*
+	- *ps -A -> view all running process*
+	- *ps -u username -> view user processes*
 - PID - Process ID
 - To stop process
-	- *kill option PID
+	- *kill option PID*
 - More on kill
 	- kill -19 PID -> to stop the process
 	- kill -18 PID -> to resume the process we stopped
@@ -86,27 +86,27 @@
 		setw -g pane-base-index 1
 		Save it | exit tmux and open again
 - To split horizontally
-	- *^A then o
+	- *^A then o*
 - To split vertically
-	- *^A then e
+	- *^A then e*
 - To exit
-	- *^A then x or
+	- *^A then x or*
 	- just type ‘exit’
 - To create tab
-	- *^A then c
+	- *^A then c*
 - To rename the tab
-	- *^A then ,(comma)
+	- *^A then ,(comma)*
 - To switch tabs
-	- *^A then numbers
+	- *^A then numbers*
 - To switch partitions
-	- *^A then arrow
+	- *^A then arrow*
 #### Wget
 - A tool used to download files from websites/server
 - Syntax:
-	- *wget option link
+	- *wget option link*
 #### Find
 - To search for files, folders, music, videos
-	- *find searchpath options searchword
-	- *find / -name "linux"
+	- *find searchpath options searchword*
+	- *find / -name "linux"*
 	- *find /home -perm 777*
-	- *find -type f | find -type d
+	- *find -type f | find -type d*
