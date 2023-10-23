@@ -1,3 +1,5 @@
+![image](https://github.com/Mistire/GTSTv1/assets/96515111/1d988d75-5e68-40d1-a60d-7e4e10b2089f)
+
 ## Finishing Linux
 #### Script Installation
 - Some hacking tools are made open-source by the developers, so we could download that from github by cloning to our terminal  and use it.
