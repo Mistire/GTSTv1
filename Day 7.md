@@ -56,5 +56,6 @@
 1. **Lists:** is an ordered collection of similar or different types separated by comma and enclosed by "[ ]". To access the list members we use index. We can modify/add objects to the list
 2. **Tuple:** an ordered sequence of items same as list. They can't be modified. They can be accessed using index
 3. **Dictionary:** an unordered collection of items. It sores elements in key/value pairs. We use key to retrieve the respective value
+---
 
 
