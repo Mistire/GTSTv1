@@ -9,7 +9,7 @@
 ## Day 5 - [Advanced Linux Commands](https://github.com/Mistire/GTSTv1/blob/main/Day%205.md)
 ## Day 6 - [Finishing Linux](https://github.com/Mistire/GTSTv1/blob/main/Day%206.md)
 --- 
-## Day 7 -
+## Day 7 -  [Introduction to Python](https://github.com/Mistire/GTSTv1/blob/main/Day%207.md)
 ## Day 8 -
 ## Day 9 -
 ## Day 10 -
