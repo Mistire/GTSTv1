@@ -1,3 +1,4 @@
+![image](https://github.com/Mistire/GTSTv1/assets/96515111/88f182ff-f185-463b-b377-3ab69a67b8d7)
 ## Introduction to Python Programming
 ### What is Programming language
 - It is a language that help to communicate with machines
