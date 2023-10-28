@@ -10,6 +10,6 @@
 ## Day 6 - [Finishing Linux](https://github.com/Mistire/GTSTv1/blob/main/Day%206.md)
 --- 
 ## Day 7 -  [Introduction to Python](https://github.com/Mistire/GTSTv1/blob/main/Day%207.md)
-## Day 8 -  [Core of Python programming](
+## Day 8 -  [Core of Python programming](https://github.com/Mistire/GTSTv1/blob/main/Day%208.md)
 ## Day 9 -
 ## Day 10 -
