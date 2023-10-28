@@ -1,3 +1,4 @@
+![image](https://github.com/Mistire/GTSTv1/assets/96515111/01bb4b46-b2b7-4c9e-90ac-fb2309f329aa)
 ## Core of Python Programming
 #### Slicing
 ```python
