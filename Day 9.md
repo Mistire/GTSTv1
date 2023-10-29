@@ -35,3 +35,20 @@
   ![image](https://github.com/Mistire/GTSTv1/assets/96515111/9c995ead-6e5d-4d1c-91ff-766972de36b9)
 
 ### Object-Oriented programming/OOP
+- Python is an object oriented programming. This means more things in python are objects
+- Objects are anything which can have action and name
+- Objects have attributes(properties) and methods(actions and functions)
+	- Ex: My Computer is an object because, it have
+		- Attribute: name, size, ram
+		- Behavior: Running game, displaying text
+#### Python Class
+- Class is simply a place where we create our Object's attribute and behavior
+- It is like a template
+- Class is a blue print for an object
+#### Python Constructors
+#### Python Inheritance
+- It is a way of creating new class with some properties of existing class
+#### Python Encapsulation
+- It refers to bundling of attributes and methods inside a single class
+- It allows for better control and protection of the data, ensuring that is accessed and modified only through specified methods
+---
