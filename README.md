@@ -12,4 +12,8 @@
 ## Day 7 -  [Introduction to Python](https://github.com/Mistire/GTSTv1/blob/main/Day%207.md)
 ## Day 8 -  [Core of Python programming](https://github.com/Mistire/GTSTv1/blob/main/Day%208.md)
 ## Day 9 -  [Further on Python](https://github.com/Mistire/GTSTv1/blob/main/Day%209.md)
-## Day 10 -
+---
+## Day 10- [Introduction to Bash](https://github.com/Mistire/GTSTv1/blob/main/Day_10.md)
+## Day 11-
+## Day 12-
+
