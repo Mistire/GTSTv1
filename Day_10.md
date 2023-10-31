@@ -1,3 +1,4 @@
+![image](https://github.com/Mistire/GTSTv1/assets/96515111/08a9cced-c382-4feb-a15c-56d205f77fee)
 ## What is Bash Sctipt?
 - **Bash** => *Bourne Again Shell*
 - It is a shell that helps us to interact with the kernel
