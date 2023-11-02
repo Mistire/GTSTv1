@@ -71,7 +71,7 @@
 	- Just use $0-$9 to work with the input
 #### Comments
 - **For single line**
-	-  # single line comment
+	-  #single line comment
 - **For multi line**
 	- << COMMENTS
 		First line comment
