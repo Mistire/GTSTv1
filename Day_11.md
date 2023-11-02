@@ -1,3 +1,4 @@
+![image](https://github.com/Mistire/GTSTv1/assets/96515111/b92cb874-dd32-4a9e-a073-8039ae548c5f)
 ## Further on Bash
 ### Regular expressions /regex
 - Most filter validation on any platform are done by Regular expression/regex
