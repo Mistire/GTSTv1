@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ec46ea690892e62",
+            "id": "c1e7aacd855c51d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day_10.md",
+                "file": "Day_11.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day_10.md",
+                "file": "Day_11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day_10.md",
+                "file": "Day_11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day_10.md"
+                "file": "Day_11.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3696a6fbac8de926",
+  "active": "c1e7aacd855c51d8",
   "lastOpenFiles": [
-    "Day 9.md",
+    "$input =~ ${pattern}.md",
+    "Day_11.md",
     "Day_10.md",
+    "Day 9.md",
     "Day 8.md",
     "Day 7.md",
     "Day 5.md",
@@ -163,7 +165,6 @@
     "Pasted image 20231020192218.png",
     "Day 4.md",
     "Day 3.md",
-    "Day_10.md",
     "Day 2.md",
     "README.md",
     "Day 11.md",
