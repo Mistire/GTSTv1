@@ -14,6 +14,7 @@
 ## Day 9 -  [Further on Python](https://github.com/Mistire/GTSTv1/blob/main/Day%209.md)
 ---
 ## Day 10- [Introduction to Bash](https://github.com/Mistire/GTSTv1/blob/main/Day_10.md)
-## Day 11-
+## Day 11- [Further on Bash](https://github.com/Mistire/GTSTv1/blob/main/Day_11.md)
 ## Day 12-
+---
 
